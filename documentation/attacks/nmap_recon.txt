@@ -1,0 +1,11 @@
+# Nmap 7.95 scan initiated Thu Dec 18 21:07:54 2025 as: /usr/lib/nmap/nmap --privileged -sV -O -oN ict/documentation/attacks/nmap_recon.txt 192.168.4.20
+Nmap scan report for 192.168.4.20
+Host is up (0.027s latency).
+All 1000 scanned ports on 192.168.4.20 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: B0:A4:60:28:30:48 (Intel Corporate)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Dec 18 21:07:57 2025 -- 1 IP address (1 host up) scanned in 3.00 seconds
