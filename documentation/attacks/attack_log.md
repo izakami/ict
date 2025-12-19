@@ -7,4 +7,4 @@ reason: in a production environment,s ervices like ssh must remain open for admi
 
 hydra brute force result
 Wordlist: fasttrack.txt
-result: no valid password found. THis indicates the user likeing is using common password.
+result: no valid password found. THis indicates the user likeing is not using common password.
